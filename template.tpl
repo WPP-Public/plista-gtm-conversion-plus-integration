@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "plista Conversion Plus integration",
+  "categories": ["CONVERSIONS", "ATTRIBUTION", "ADVERTISING"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
