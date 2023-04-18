@@ -1,3 +1,5 @@
 homepage: "https://www.plista.com"
 documentation: "https://www.plista.com"
 versions:
+  - sha: 5c17833b1c6641d6f89c9219dbb65eb46803161d
+    changeNotes: Initial release.
