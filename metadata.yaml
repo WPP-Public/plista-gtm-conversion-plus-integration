@@ -1,6 +1,8 @@
 homepage: "https://www.plista.com"
 documentation: "https://www.plista.com"
 versions:
+  - sha: e4c999cdf68056a366c27b422ad9167c42178f08
+    changeNotes: Add missing license information
   - sha: e3635d29adbad40ccfe76923dc5a364bfb38991b
     changeNotes: Add categories
   - sha: 5c17833b1c6641d6f89c9219dbb65eb46803161d
